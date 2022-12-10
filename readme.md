@@ -18,9 +18,3 @@ npm start
 ### DOCUMENTATION
 https://documenter.getpostman.com/view/24158006/2s8YzTShAZ
 
-
-
-- Version: 1.0.0
-
-- License: MIT
-
