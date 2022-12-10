@@ -151,4 +151,5 @@ BootcampSchema.virtual('courses', {
   justOne: false, //to get an array of courses not just one course
 });
 
+
 module.exports = mongoose.model('Bootcamp', BootcampSchema);
